@@ -1,0 +1,9 @@
+{
+  "name": "Fueled Burner Inserters",
+  "version": "1.0.0",
+  "title": "Fueled Burner Inserters",
+  "author": "Rseding91",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Burner Inserters start with fuel."
+}
